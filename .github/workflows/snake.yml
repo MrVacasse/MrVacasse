@@ -19,8 +19,7 @@ jobs:
         with:
           github_user_name: MrVacasse
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=D4A857&color_dots=#0b0d16,#3a2f1f,#6b5430,#a3813f,#D4A857
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
