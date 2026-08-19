@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" viewBox="0 0 696.6 616.3000000000001" role="img" aria-label="Portrait ASCII animÃ© de MrVacasse">
+
+<style>
+    .ascii-line {
+        opacity: 0;
+    }
+
+    .ascii-line {
+        animation-name: reveal;
+        animation-duration: 0.08s;
+        animation-timing-function: linear;
+        animation-fill-mode: forwards;
+    }
+
+    @keyframes reveal {
+        from {
+            opacity: 0;
+        }
+
+        to {
+            opacity: 1;
+        }
+    }
+</style>
+
+<text x="0" y="12.9" font-family="monospace" font-size="12.9" fill="#111" xml:space="preserve">
+<tspan class="ascii-line" x="0" y="12.9" style="animation-delay:0.000s"></tspan>
+<tspan class="ascii-line" x="0" y="25.8" style="animation-delay:0.035s">                                :`.        -*++`                           `-=+++***+.</tspan>
+<tspan class="ascii-line" x="0" y="38.7" style="animation-delay:0.070s">                                +s+=+=:.   .c.-+*-                   .:=--*sc**++++=*s</tspan>
+<tspan class="ascii-line" x="0" y="51.6" style="animation-delay:0.105s">              .`:::::::-::``.    `+: `-=+-` =*  `+*-             `-+*+=:-++------=-=-#`</tspan>
+<tspan class="ascii-line" x="0" y="64.5" style="animation-delay:0.140s">            +sc=---------===+====::c*.  .`-=:s= . .+*:        :+*+=:.  +*=-==========#`</tspan>
+<tspan class="ascii-line" x="0" y="77.4" style="animation-delay:0.175s">             .-+=:             ..`::cc=-:`..:+#:..  `*+    :+*+:.    -c+-============#.</tspan>
+<tspan class="ascii-line" x="0" y="90.3" style="animation-delay:0.210s">                :+*+-:`````````..... `:=====-:=+-:`.  =c:=*+:    .. +c=-=======+++++*#</tspan>
+<tspan class="ascii-line" x="0" y="103.2" style="animation-delay:0.245s">                   `=*+=--============-============-:` :*-.  .`::--cc-===+++********ss</tspan>
+<tspan class="ascii-line" x="0" y="116.10000000000001" style="animation-delay:0.280s">               .`````-*cs**++++========================:..:--=====sc-++*************s*</tspan>
+<tspan class="ascii-line" x="0" y="129.0" style="animation-delay:0.315s">         .=+========--:-==+*c***++==============================-cs+****************#-</tspan>
+<tspan class="ascii-line" x="0" y="141.9" style="animation-delay:0.350s">         .-**=:.          `:====++=============================-*s*cc*cc***********c#.</tspan>
+<tspan class="ascii-line" x="0" y="154.8" style="animation-delay:0.385s">             :=++-`...`:-======+*++++++=========================#c*++csccc*cc******s*</tspan>
+<tspan class="ascii-line" x="0" y="167.70000000000002" style="animation-delay:0.420s">                .-*sc**+++++++--+++==============-=============*c=+*cc*++=*sc****c*#.</tspan>
+<tspan class="ascii-line" x="0" y="180.6" style="animation-delay:0.455s">              .-+=-:``-+++++==+cccss*++==========c+======+++====-+++===-=cs*****c*#*</tspan>
+<tspan class="ascii-line" x="0" y="193.5" style="animation-delay:0.490s">            `++-` .`-----=++*cc*+==+=++==========*ccccccc**+==========+csc*ccc***s#</tspan>
+<tspan class="ascii-line" x="0" y="206.4" style="animation-delay:0.525s">          `*c+--=cc******++c*=--======*==========--=====----=========+ccccsc**ccs#`</tspan>
+<tspan class="ascii-line" x="0" y="219.3" style="animation-delay:0.560s">          =+``-*c*-:-++==-++-==========++=========+******++++++===-==+*cccc*csc*s-.</tspan>
+<tspan class="ascii-line" x="0" y="232.20000000000002" style="animation-delay:0.595s">            :++-.  `:--===----=++***+============+#%%%%%%%%%%%%%%%s===++*scsc++#ss:</tspan>
+<tspan class="ascii-line" x="0" y="245.1" style="animation-delay:0.630s">          -*+:  .:=======-+cs#%%%%%%#-============++++=#%%%%%@%*s@#-==*cssc+-=**=.</tspan>
+<tspan class="ascii-line" x="0" y="258.0" style="animation-delay:0.665s">        -c+`  .:-======-+#%%#ss%%%%%%+=============::-`s%%%%%%%.+%+===+ssc*csc*=:</tspan>
+<tspan class="ascii-line" x="0" y="270.90000000000003" style="animation-delay:0.700s">      :c*`  .:-========+%%c+=-+%#%%%@s-=============--:=%%%%%%*=s+=======+++++*s+</tspan>
+<tspan class="ascii-line" x="0" y="283.8" style="animation-delay:0.735s">     +s:  .:-=========-=%c:---:#%%%%%*---::::-----====--+####c+*=========-=+**=.</tspan>
+<tspan class="ascii-line" x="0" y="296.7" style="animation-delay:0.770s">   .c*  .`-====--===+++==s+-----c%#s-...:-=+-..``-======================+s*-`</tspan>
+<tspan class="ascii-line" x="0" y="309.6" style="animation-delay:0.805s">  `s- .:-=====-+c=----:`..---:``::`  `s%%%%%*-======-=+=================+c*=:.</tspan>
+<tspan class="ascii-line" x="0" y="322.5" style="animation-delay:0.840s">  =c------======c*-`   ... ......  ...:=cc+--=======+s*==================-=*c+</tspan>
+<tspan class="ascii-line" x="0" y="335.40000000000003" style="animation-delay:0.875s">   .=*c*++==-----+*ccs*`.........`:....`--======++*cc=============-=*++++++=`</tspan>
+<tspan class="ascii-line" x="0" y="348.3" style="animation-delay:0.910s">      .:=+*********cc=`... ......`+===+++*********+=-==========--+cssc=:.</tspan>
+<tspan class="ascii-line" x="0" y="361.2" style="animation-delay:0.945s">            .```:*%c:::-=c+:. .... .`-+++===================--+c#%%%%#scc*+=:.</tspan>
+<tspan class="ascii-line" x="0" y="374.1" style="animation-delay:0.980s">                 --:=+ssc*cc+-:`. .   .-===================+*#%%%%%%%%%%%%%%%%s+</tspan>
+<tspan class="ascii-line" x="0" y="387.0" style="animation-delay:1.015s">                             `-===-:``...:--------======+**c+s%%%%%%%%%%%%%%%%%%#:</tspan>
+<tspan class="ascii-line" x="0" y="399.90000000000003" style="animation-delay:1.050s">                                 .`:----+ccsssssssc*+*****++=+%%%%%%%%%%%%%%%%%%%s</tspan>
+<tspan class="ascii-line" x="0" y="412.8" style="animation-delay:1.085s">                                      `+#%%%#%#scc******+++===*#%%%%%%%%%%%%%%%%%+</tspan>
+<tspan class="ascii-line" x="0" y="425.7" style="animation-delay:1.120s">                                    :c###%%%=-++++***++=========*s%%%%%%%%%%%%%%%=</tspan>
+<tspan class="ascii-line" x="0" y="438.6" style="animation-delay:1.155s">                                  :s%##%%%%@@++***++========--+s%%%%%%%%%%%%%%#%s#=</tspan>
+<tspan class="ascii-line" x="0" y="451.5" style="animation-delay:1.190s">                                .*#%#%%%%##ssc.:--======--=+cs#%%%%%%%%%%%%%##%%sc#</tspan>
+<tspan class="ascii-line" x="0" y="464.40000000000003" style="animation-delay:1.225s">                               :#%#%%%%%s:.   ....`:--=+*s#%%%%%%%%%%%%%%%%%%%%%#cs</tspan>
+<tspan class="ascii-line" x="0" y="477.3" style="animation-delay:1.260s">                              `#####%%%%%%#sc=`....`=c#%%%%%%%%%%%%%%%%%%%%%%%%%c#+</tspan>
+<tspan class="ascii-line" x="0" y="490.2" style="animation-delay:1.295s">                              `######%%%%%%@s:``:=c#%%%%%%%%%%%%%%%%%%%%%%%%%%%scs.</tspan>
+<tspan class="ascii-line" x="0" y="503.1" style="animation-delay:1.330s">                               -#%#####%%%%+.:=c#%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%+</tspan>
+<tspan class="ascii-line" x="0" y="516.0" style="animation-delay:1.365s">                                .c###%%##%#=+s%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#c</tspan>
+<tspan class="ascii-line" x="0" y="528.9" style="animation-delay:1.400s">                                .=%%%##%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%##:</tspan>
+<tspan class="ascii-line" x="0" y="541.8000000000001" style="animation-delay:1.435s">                              `c#%%##%%%#%%%%%%%%%%%#%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#%=</tspan>
+<tspan class="ascii-line" x="0" y="554.7" style="animation-delay:1.470s">                            .*##%%####%#s%%%%%%%%%%##%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%s#+</tspan>
+<tspan class="ascii-line" x="0" y="567.6" style="animation-delay:1.505s">                            c%#%%#####%sc%%##%%%%%%##%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%##`</tspan>
+<tspan class="ascii-line" x="0" y="580.5" style="animation-delay:1.540s">                             .:=+*cs##%ss%%%%%%%%%%##%%%%%%%%%%%%%%%%%%%%%%%%%%##sc*+-</tspan>
+<tspan class="ascii-line" x="0" y="593.4" style="animation-delay:1.575s">                                     .`:-++**cccs#sccsssssssssccccc****++==::`.</tspan>
+<tspan class="ascii-line" x="0" y="606.3000000000001" style="animation-delay:1.610s"></tspan>
+</text>
+</svg>
