@@ -2,6 +2,4 @@
 
 Mwa, ch'ai Vak !! ^^
 
-<br>
-<img src="./portrait.svg" width="460">
-<br>
+<img src="./avatar.svg" width="460" alt="Vakou"/>
