@@ -23,7 +23,7 @@
     }
 </style>
 
-<text x="0" y="12.9" font-family="monospace" font-size="12.9" fill="#111" xml:space="preserve">
+<text x="0" y="12.9" font-family="monospace" font-size="12.9" fill="#fff" xml:space="preserve">
 <tspan class="ascii-line" x="0" y="12.9" style="animation-delay:0.000s"></tspan>
 <tspan class="ascii-line" x="0" y="25.8" style="animation-delay:0.035s">                                :`.        -*++`                           `-=+++***+.</tspan>
 <tspan class="ascii-line" x="0" y="38.7" style="animation-delay:0.070s">                                +s+=+=:.   .c.-+*-                   .:=--*sc**++++=*s</tspan>
