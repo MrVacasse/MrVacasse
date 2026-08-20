@@ -159,7 +159,7 @@ Un univers narratif entièrement personnalisé, des mécaniques innovantes, un s
   <br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-MrVacasse-D4A857?style=for-the-badge&logo=github&logoColor=0b0d16&labelColor=0b0d16)](https://github.com/MrVacasse) <br>
-[![Portfolio](https://img.shields.io/badge/Portfolio-Voir_le_site-D4A857?style=for-the-badge&logo=googlechrome&logoColor=0b0d16&labelColor=0b0d16)]([LIEN_PORTFOLIO](https://portfolio-qjo4.onrender.com/#hero)) <br>
+[![Portfolio](https://img.shields.io/badge/Portfolio-Voir_le_site-D4A857?style=for-the-badge&logo=googlechrome&logoColor=0b0d16&labelColor=0b0d16)](https://portfolio-qjo4.onrender.com/#hero) <br>
 
   <br>
   <br>
