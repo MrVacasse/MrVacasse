@@ -4,7 +4,7 @@
 
   <img src="./portrait-col.svg" width="460" alt="Vakou"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1000&color=D4A857&center=true&vCenter=true&width=560&lines=D%C3%A9veloppeur+autodidacte;Web+%7C+Games+%7C+Hardware;Transforme+des+id%C3%A9es+stupide+en+projets+ambitieux" alt="typing banner"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=D4A857&center=true&vCenter=true&width=560&lines=D%C3%A9veloppeur+autodidacte;Web+%7C+Games+%7C+Hardware;Transforme+des+id%C3%A9es+stupides+en+projets+ambitieux" alt="typing banner"/>
 
   ![Statut](https://img.shields.io/badge/statut-D%C3%A9veloppe_quelque_chose-D4A857?style=for-the-badge&labelColor=0b0d16)
   ![Focus](https://img.shields.io/badge/focus-web_%7C_games_%7C_hardware-D4A857?style=for-the-badge&labelColor=0b0d16)
@@ -53,7 +53,6 @@
   <img src="https://skillicons.dev/icons?i=,git,github,gitlab&theme=dark" />
   <img src="https://skillicons.dev/icons?i=,npm,pnpm&theme=dark" />
   <img src="https://skillicons.dev/icons?i=,docker,vercel,netlify&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=,postman&theme=dark" />
 
   <br>
 
@@ -91,7 +90,7 @@ Un bloc-note amélioré ; un tableau blanc INFINI, où l'ajout de médias, liens
 <br>
 
 ![Portfolio](https://img.shields.io/badge/Portfolio-D4A857?style=for-the-badge&labelColor=0b0d16) <br>
-Site personnel aux tons sombres et dorés, doté de modèle 3D en *Three.js* et d'animations déclenchées par le défilement de la souris, soupoudré d'une multitude de références cachées, *d'easter egg*, aux quatre coins du site :)
+Site personnel aux tons sombres et dorés, doté de modèle 3D en *Three.js* et d'animations déclenchées par le défilement de la souris, saupoudré d'une multitude de références cachées, *d'easter egg*, aux quatre coins du site :)
 
 > ![Three.js](https://img.shields.io/badge/-Three.js-0b0d16?style=flat-square&logo=three.js&logoColor=D4A857&labelColor=0b0d16)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-0b0d16?style=flat-square&logo=javascript&logoColor=D4A857&labelColor=0b0d16)
@@ -124,3 +123,13 @@ Un univers narratif entièrement personnalisé, des mécaniques innovantes, un s
 <sub>Conçu avec 🧡 par *Vakou* !</sub>
 
 </div>
+
+
+<!--
+  Si tu lis ceci...
+
+  Félicitations.
+  Tu viens de trouver le premier easter egg . :)
+   
+  Maintenant va voir mon portfolio mdrr. 👀
+-->
