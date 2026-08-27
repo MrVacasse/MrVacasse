@@ -53,7 +53,6 @@
   <img src="https://skillicons.dev/icons?i=,git,github,gitlab&theme=dark" />
   <img src="https://skillicons.dev/icons?i=,npm,pnpm&theme=dark" />
   <img src="https://skillicons.dev/icons?i=,docker,vercel,netlify&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=,postman&theme=dark" />
 
   <br>
 
@@ -82,7 +81,7 @@ Application de Gestion de maintenance Assistée par Ordinateur basée sur le Web
 ![SQLite](https://img.shields.io/badge/-SQLite-0b0d16?style=flat-square&logo=sqlite&logoColor=D4A857&labelColor=0b0d16)
 
 <br clear="left"/>
-<br>
+
 
 <img src="./screenshots/myboard.png" width="260" height="150" align="left" alt="Aperçu MyBoard"/>
 
@@ -95,21 +94,22 @@ Un bloc-note amélioré ; un tableau blanc INFINI, où l'ajout de médias, liens
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0b0d16?style=flat-square&logo=javascript&logoColor=D4A857&labelColor=0b0d16)
 
 <br clear="left"/>
-<br>
+
 
 <img src="./screenshots/portfolio.png" width="260" height="150" align="left" alt="Aperçu Portfolio"/>
 
-![Portfolio](https://img.shields.io/badge/Portfolio-D4A857?style=for-the-badge&labelColor=0b0d16)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Site_en_ligne_\(Cliquez_ici\)-0b0d16?style=for-the-badge&labelColor=D4A857)](https://portfolio-qjo4.onrender.com/#hero) <br>
+
 
 Site personnel aux tons sombres et dorés, doté de modèle 3D en *Three.js* et d'animations déclenchées par le défilement de la souris, soupoudré d'une multitude de références cachées, *d'easter egg*, aux quatre coins du site :)
 
 ![Three.js](https://img.shields.io/badge/-Three.js-0b0d16?style=flat-square&logo=three.js&logoColor=D4A857&labelColor=0b0d16)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0b0d16?style=flat-square&logo=javascript&logoColor=D4A857&labelColor=0b0d16)
 
-[![Site en ligne](https://img.shields.io/badge/-Site_en_ligne-D4A857?style=for-the-badge&labelColor=0b0d16)](https://portfolio-qjo4.onrender.com/#hero)
 
 <br clear="left"/>
-<br>
+
 
 <img src="./screenshots/egmc.png" width="260" height="150" align="left" alt="Aperçu EGMC"/>
 
